@@ -1,0 +1,13 @@
+﻿  Drawing.cpp
+  DrawingView.cpp
+D:\VS_code 2022\MFC\Drawing\DrawingView.cpp(67,12): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+  (编译源文件“/DrawingView.cpp”)
+  
+D:\VS_code 2022\MFC\Drawing\DrawingView.cpp(242,13): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+  (编译源文件“/DrawingView.cpp”)
+  
+D:\VS_code 2022\MFC\Drawing\DrawingView.cpp(290,12): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+  (编译源文件“/DrawingView.cpp”)
+  
+  正在生成代码...
+  Drawing.vcxproj -> D:\VS_code 2022\MFC\Drawing\x64\Debug\Drawing.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Drawing", "Drawing.vcxproj", "{C2132954-C280-48CB-A626-C7C7772DEE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Debug|x64.ActiveCfg = Debug|x64
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Debug|x64.Build.0 = Debug|x64
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Debug|x86.Build.0 = Debug|Win32
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Release|x64.ActiveCfg = Release|x64
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Release|x64.Build.0 = Release|x64
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Release|x86.ActiveCfg = Release|Win32
+		{C2132954-C280-48CB-A626-C7C7772DEE61}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEF48D1-B05B-490A-8231-C57B4BAD552D}
+	EndGlobalSection
+EndGlobal
